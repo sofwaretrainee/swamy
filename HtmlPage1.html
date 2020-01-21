@@ -1,0 +1,179 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title> Car Catlog</title>
+
+    <style>
+
+        #id1 {
+            margin : 50px 20px 20px 100px;
+            width : 1530px;
+            height : 100px;
+            padding : 10px 10px 10px 10px;
+            border : none;
+            background-color : #ffffff;
+           
+        }
+        #p
+        {
+            margin:0 0 0 10px;
+            padding:0px 0 0px 5px;
+        }
+
+        #p1 {
+            margin: 10px 0 0 10px;
+            padding: 0 0 40px 5px;
+        }
+
+
+        #id2 {
+            width: 800px;
+            height: 500px;
+            margin: 0 400px 250px 100px;
+            padding: 0px;
+            border:none;
+            background-color: #ffffff;
+        }
+
+        #id3 {
+            width : 840px;
+            height : 170px;
+            border : 1px solid gray;
+            margin : 20px 0 0 0;
+        }
+
+       #id4 {
+           width : 190px;
+           height : 150px;
+           border : 5px solid gray;
+           margin : 0;
+           
+           
+       }
+
+        .colum {
+            float: left;
+            width: 33.33%;
+            padding: 5px;
+        }
+
+       
+        .row::after {
+            content: "";
+            clear: both;
+            display: table;
+        }
+
+        #id5 {
+            width: 650px;
+            height:680px;
+            margin: -737px 0px 800px 1000px;
+            padding: 0px;
+            border:none;
+            background-color: #ffffff;
+        }
+             
+        #id6 {
+            border-bottom : none;
+        }
+
+   </style>
+
+    <script>
+        function changeImage(image)
+        {
+            document.getElementById("demo").src=image;
+        }
+    </script>
+
+   
+ </head>
+  <body style="background-color:#fbfbfb;">
+
+    
+      
+      
+
+      <div id="id1">
+        <p id="p" style=font-size:30px;> <b> Lamborghini </b> <span style="margin: 0 0 0 1400px;"> <b>12Lacks</b> </span></p>
+        <p id="p1" style=font-size:20px;> Huracan EVO </p>
+
+   </div>
+
+
+      <div id = "id2">
+          
+          <img src="images/images%20(1).jfif" id="demo" style = "width:830px; height:480px; padding : 10px 30px 10px 10px; margin-right : 200px;"/>
+          
+          
+      
+          <div id="id3" class="row">
+
+              
+
+              <div id="id4" class="colum">
+                  
+                  
+                  <img src="images/images%20(1).jfif" style="width: 190px; height: 150px; border: none; padding: 0 10px 10px 0;" onclick="changeImage(this.src);">
+
+              </div>
+
+              <div id="id4" class="colum">
+                  <img src="images/images%20(3).jfif" style="width: 190px; height: 150px; border: none; padding : 0 10px 10px 0;" onclick="changeImage(this.src);">
+              </div>
+
+              <div id="id4" class="colum">
+                  <img src="images/images%20(4).jfif" style="width: 190px; height: 150px; border: none; padding: 0 10px 10px 0;" onclick="changeImage(this.src);">
+                </div>
+
+              <div id="id4" class="colum">
+                  <img src="images/download.jfif" style="width: 190px; height: 150px; border: none; padding: 0 10px 10px 0;" onclick="changeImage(this.src);">
+              </div>
+              
+
+      </div>
+ </div>
+
+      <div id="id5" style="background-color: #ffffff;">
+          <p style="margin-left:40px;" >  <b>SPECIFICATION</b></p>
+          <ul style="list-style-type:none;">
+              <li  id="id6"> Make <span style="margin :410px;"> Lamborghini </span></li>
+              <li id="id6"> Model <span style="margin:420px;"> Huracan </span></li>
+              <li id="id6"> BodyStyle <span style="margin:410px;"> Covertible </span></li>
+              <li id="id6"> Year <span style="margin:425px;"> 2020 </span> </li>
+              <li id="id6"> Condition <span style="margin:410px;"> BrandNew </span></li>
+              <li id="id6"> Milege <span style="margin:410px;"> 16,000mi </span></li>
+              <li id="id6"> InteriorColor <span style="margin:410px;"> DarkGray </span></li>
+              <li id="id6"> Transmission <span style="margin:400px;"> 6SpeedManual </span></li>
+              <li id="id6"> Engine <span style="margin:390px;"> 3.4LMidEngineV6 </span></li>
+              <li id="id6"> No.OfGears <span style="margin:440px;"> 6 </span></li>
+              <li id="id6"> Location <span style="margin:410px;"> Bangalore </span></li>
+              <li id="id6"> FuelType <span style="margin:400px;"> GasolineFuel </span></li>
+            
+ </ul>
+ </div>
+
+
+      <script>
+
+          var cars1 = { 
+              "Make" :"Lamborgini",
+              "Model" : "huracan EVO",
+              "Bodystyle": "Covertible",
+              "Year": 2020,
+              "Condition" : "Brandnew",
+              "Milege" : "1600mi",
+              "InteriorColor": "DarkGray",
+              "Transmission": "6SpeedManual",
+              "Engine" : "3.4LMidEngineV6",
+              "NoOfGears": 6,
+              "Location": "Banglore",
+              "FuelType": "GasolineFuel"
+          }
+   
+      </script>
+
+              
+
+</body>
+</html>
