@@ -1,0 +1,240 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title> Car Catlog</title>
+
+    <style>
+        .row::after {
+            content: "";
+            clear: both;
+            display: table;
+        }
+        .column {
+            float: left;
+            width: 33.33%;
+            padding: 5px;
+        }
+        .forP1 {
+              margin: 0 0 0 100px;
+             padding: 0px 0 0px 10px;
+             }
+
+      .forP2 {
+            margin: 10px 0 0 110px;
+            padding: 0 0 40px 5px;
+            }
+
+      .forDiv2 {
+            width: 800px;
+            height: 500px;
+            margin: 0 400px 250px 100px;
+            padding: 0px;
+            border:none;
+            background-color: #ffffff;
+           }
+
+       .forDiv3 {
+            width : 840px;
+            height : 170px;
+            border : 1px solid gray;
+            margin : 20px 0 0 0;
+            }
+
+       .forDiv4 {
+           width : 190px;
+           height : 150px;
+           border : 5px solid gray;
+           margin : 0;
+           }
+
+       
+
+        .forDiv5 {
+            width: 650px;
+            height:680px;
+            margin: -737px 0px 800px 1000px;
+            padding: 0px;
+            border:none;
+            background-color: #ffffff;
+            }
+             
+        .forList {
+            border-bottom : none;
+            }
+
+        .image0 {
+             width:830px; 
+             height:480px; 
+             padding : 10px 30px 10px 10px;
+             margin-right : 200px;
+             }
+
+        .image1{
+            width: 190px; 
+            height: 150px; 
+            border: none; 
+            padding: 0 10px 10px 0;
+            }
+        
+       </style>
+
+
+  <script>
+      function changeImage(element)
+      {
+          document.getElementById("demo").src = element;
+          
+
+          
+
+          console.log(element);
+          var path = element.split("/");
+          var img = path[path.length - 1].split(".")[0];
+          console.log(element);
+
+
+          var i;
+          for (i = 0; i <=cars.length-1; i++)
+          {
+              if (cars[i].Image == img)
+              {
+                  break;
+              }
+          }
+
+          document.getElementById('model1').innerHTML = cars[i].Make;
+          document.getElementById('model2').innerHTML = cars[i].Model;
+          document.getElementById('model3').innerHTML = cars[i].BodyStyle;
+          document.getElementById('model4').innerHTML = cars[i].Year;
+          document.getElementById('model5').innerHTML = cars[i].Condition;
+          document.getElementById('model6').innerHTML = cars[i].Milege;
+          document.getElementById('model7').innerHTML = cars[i].InteriorColor;
+          document.getElementById('model8').innerHTML = cars[i].Transmission;
+          document.getElementById('model9').innerHTML = cars[i].Engine;
+          document.getElementById('model10').innerHTML = cars[i].No.OfNoGears;
+          document.getElementById('model11').innerHTML = cars[i].Location;
+          document.getElementById('model12').innerHTML = cars[i].FuelType;
+      }
+         var cars = [{
+                "Make": "LamborghiniBlack",
+                "Model": "Huracan",
+                "BodyStyle": "Covertible",
+                "Year": 2020,
+                "Condition": "BrandNew",
+                "Milege": "16,000mi",
+                "InteriorColor": "DarkGray",
+                "Transmission": "6SpeedManual",
+                "Engine": "3.4LMidEngineV6",
+                "No.OfNoGears": 6,
+                "Location": "Bangalore",
+                "FuelType": "GasolineFuel",
+                "Image": "images%20(1)"
+            },
+            {  "Make": "LamborghiniGray",
+                "Model": "Huracan",
+                "BodyStyle": "Covertible",
+                "Year": 2020,
+                "Condition": "BrandNew",
+                "Milege": "16,000mi",
+                "InteriorColor": "DarkGray",
+                "Transmission": "6SpeedManual",
+                "Engine": "3.4LMidEngineV6",
+                "No.OfGears": 6,
+                "Location": "Bangalore",
+                "FuelType": "GasolineFuel",
+                "Image": "images%20(3)"
+            },
+            {
+                "Make": "LamborghiniBlue",
+                "Model": "Huracan",
+                "BodyStyle": "Covertible",
+                "Year": 2020,
+                "Condition": "BrandNew",
+                "Milege": "16,000mi",
+                "InteriorColor": "DarkGray",
+                "Transmission": "6SpeedManual",
+                "Engine": "3.4LMidEngineV6",
+                "No.OfGears": 6,
+                "Location": "Bangalore",
+                "FuelType": "GasolineFuel",
+                "Image": "images%20(4)"
+            },
+            {
+                "Make": "LamborghiniRed",
+                "Model": "Huracan",
+                "BodyStyle": "Covertible",
+                "Year": 2020,
+                "Condition": "BrandNew",
+                "Milege": "16,000mi",
+                "InteriorColor": "DarkGray",
+                "Transmission": "6SpeedManual",
+                "Engine": "3.4LMidEngineV6",
+                "No.OfGears": 6,
+                "Location": "Bangalore",
+                "FuelType": "GasolineFuel",
+                "Image": "download"
+            }]
+
+     
+   </script>
+
+   
+ </head>
+  <body style="background-color:#fbfbfb;">
+
+    
+       <div class="forDiv1">
+        <p class="forP1" style=font-size:30px;> <b> Lamborghini </b> <span style="margin: 0 0 0 1200px;"> <b>12Lacks</b> </span></p>
+        <p class="forP2" style=font-size:20px;> Huracan EVO </p>
+      </div>
+
+
+     <div class="forDiv2">
+          
+      <img src="images/images%20(1).jfif" id="demo" class="image0"/>
+          
+               <div class="forDiv3 row">
+
+                   <div class="forDiv4 column">
+                       <img src="images/images%20(1).jfif" class="image1" onclick="changeImage(this.src);">
+                   </div>
+
+                   <div class="forDiv4 column">
+                       <img src="images/images%20(3).jfif" class="image1" onclick="changeImage(this.src);">
+                   </div>
+
+                 <div class="forDiv4 column">
+                               <img src="images/images%20(4).jfif" class="image1" onclick="changeImage(this.src);">
+                           </div>
+                   <div class="forDiv4 column">
+                               <img src="images/download.jfif" class="image1" onclick="changeImage(this.src);">
+                           </div>
+                   
+               
+
+
+  </div>
+ </div>
+
+      <div class="forDiv5" style="background-color: #ffffff;">
+          <p style="margin-left:40px;">  <b>SPECIFICATION</b></p>
+          <ul style="list-style-type:none;">
+              <li class="forList"> Make <span style="margin :410px;" id="model1"> Lamborghini </span></li>
+              <li class="forList"> Model <span style="margin:420px;" id="model2"> Huracan </span></li>
+              <li class="forList"> BodyStyle <span style="margin:410px;" id="model3"> Covertible </span></li>
+              <li class="forList"> Year <span style="margin:425px;" id="model4"> 2020 </span> </li>
+              <li class="forList"> Condition <span style="margin:410px;" id="model5"> BrandNew </span></li>
+              <li class="forList"> Milege <span style="margin:410px;" id="model6"> 16,000mi </span></li>
+              <li class="forList"> InteriorColor <span style="margin:410px;" id="model7"> DarkGray </span></li>
+              <li class="forList"> Transmission <span style="margin:400px;" id="model18"> 6SpeedManual </span></li>
+              <li class="forList"> Engine <span style="margin:390px;" id="model9"> 3.4LMidEngineV6 </span></li>
+              <li class="forList"> No.OfGears <span style="margin:440px;" id="model10"> 6 </span></li>
+              <li class="forList"> Location <span style="margin:410px;" id="model11"> Bangalore </span></li>
+              <li class="forList"> FuelType <span style="margin:400px;" id="model12"> GasolineFuel </span></li>
+            
+ </ul>
+ </div>
+
+
+</body>
+</html>
