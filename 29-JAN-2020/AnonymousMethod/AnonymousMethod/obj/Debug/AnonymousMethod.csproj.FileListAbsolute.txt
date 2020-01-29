@@ -1,0 +1,2 @@
+c:\users\swamy_mr\documents\visual studio 2013\Projects\AnonymousMethod\AnonymousMethod\bin\Debug\AnonymousMethod.exe.config
+C:\Users\Swamy_mr\Documents\Visual Studio 2013\Projects\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.csprojResolveAssemblyReference.cache
