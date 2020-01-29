@@ -1,0 +1,5 @@
+c:\users\swamy_mr\documents\visual studio 2013\Projects\work3\work3\bin\Debug\work3.exe.config
+c:\users\swamy_mr\documents\visual studio 2013\Projects\work3\work3\bin\Debug\work3.exe
+c:\users\swamy_mr\documents\visual studio 2013\Projects\work3\work3\bin\Debug\work3.pdb
+c:\users\swamy_mr\documents\visual studio 2013\Projects\work3\work3\obj\Debug\work3.exe
+c:\users\swamy_mr\documents\visual studio 2013\Projects\work3\work3\obj\Debug\work3.pdb

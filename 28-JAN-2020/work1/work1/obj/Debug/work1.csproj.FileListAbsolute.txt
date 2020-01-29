@@ -1,0 +1,6 @@
+c:\users\swamy_mr\documents\visual studio 2013\Projects\work1\work1\bin\Debug\work1.exe.config
+c:\users\swamy_mr\documents\visual studio 2013\Projects\work1\work1\obj\Debug\work1.csprojResolveAssemblyReference.cache
+c:\users\swamy_mr\documents\visual studio 2013\Projects\work1\work1\bin\Debug\work1.exe
+c:\users\swamy_mr\documents\visual studio 2013\Projects\work1\work1\bin\Debug\work1.pdb
+c:\users\swamy_mr\documents\visual studio 2013\Projects\work1\work1\obj\Debug\work1.exe
+c:\users\swamy_mr\documents\visual studio 2013\Projects\work1\work1\obj\Debug\work1.pdb
