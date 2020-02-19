@@ -34,10 +34,7 @@ namespace NewTask
             }
         }
 
-        private void BindGrid()
-        {
-            throw new NotImplementedException();
-        }
+      
 
         private void BindTextBoxvalues()
         {

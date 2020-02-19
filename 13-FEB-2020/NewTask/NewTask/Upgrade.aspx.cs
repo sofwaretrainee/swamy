@@ -21,11 +21,7 @@ namespace NewTask
         
         }
 
-        protected void BindGrid()
-        {
-            GridView1.DataSource = (DataTable)ViewState["NewTaskInfo"];
-            GridView1.DataBind();
-        }
+       
 
 
         private void BindGridView()
