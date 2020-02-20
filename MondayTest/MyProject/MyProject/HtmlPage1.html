@@ -1,0 +1,143 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>CoolDrinkShop Application</title>
+    <style>
+
+        body {
+            background-image: url("images/88931_1477049607.jpg" );
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+    .Header {
+        text-align: center;
+    }
+
+    .Container {
+        width: 700px;
+        height: 700px;
+        border: 1px solid black;
+        margin: 100px 50px 50px 550px;
+    }
+
+        .Containerup {
+            width: 300px;
+            height: 300px;
+            border: none;
+            margin: auto;
+        }
+
+        .Image {
+            width: 100%;
+            border-radius: 50%;
+        }
+
+        .ContainerDown {
+            width:650px;
+            height:200px;
+            border:none;
+            margin:30px 10px 30px 25px;
+           
+        }
+
+        .ContainerDown1 {
+            width :600px;
+            height:25px;
+            border:none;
+            margin:10px 10px 10px 20px;
+
+            
+             }
+
+        .ContainerDown2 {
+            width: 600px;
+            height: 40px;
+            border: none;
+            margin: 10px 10px 10px 20px;
+        }
+
+
+        .ContainerDown1Label {
+            padding:5px 10px 0px 160px;
+        }
+
+        .ContainerDownButton1 {
+            margin-left: 280px;
+            background-color: #4CAF50;
+        }
+
+        .cancelbtn {
+            width: auto;
+            padding: 5px 5px;
+            background-color: #f44336;
+            margin-left:60px;
+        }
+
+        span.psw {
+            float: right;
+            float: none;
+            margin-left:340px;
+        }
+       
+
+        
+
+    
+</style>
+</head>
+
+<body>
+    <div class="Container"> 
+    <h1 class="Header"> Login Page </h1>
+       
+
+
+        <div class="Containerup">
+            <img src="img_avatar2.png" class="Image">
+          </div>
+
+        <div class="ContainerDown">
+            <div class="ContainerDown1">
+                <label for="uname" class="ContainerDown1Label"><b>UserName:</b></label>
+                <input type="text" />
+            </div>
+
+            <div class="ContainerDown1">
+                <label for="Pword" class="ContainerDown1Label"><b>PassWord:</b></label>
+                <input type="text" />
+             </div>
+
+            <div class="ContainerDown1">
+             <button type="submit" onclick="Login()"   class="ContainerDownButton1">Login</button>
+          </div>
+
+            <div class="ContainerDown2">
+                <button type="button" class="cancelbtn"> Cancel </button>
+
+                <span class="psw">Forgot <a href="#">password?</a></span>
+            </div>
+        
+         </div>
+
+    </div>
+
+    <script>
+        function Login()
+        {
+            alert("Login successfully...")
+        }
+    </script>
+
+
+
+
+
+
+
+        
+
+
+    
+
+</body>
+</html>

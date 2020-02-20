@@ -1,0 +1,194 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+        body {
+            background-image: url("images/images%20(9).jfif");
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+    .Header {
+        text-align: center;
+    }
+
+    .Container {
+        width: 600px;
+        height: 800px;
+        border: 1px solid black;
+        margin: 150px 50px 50px 550px;
+    }
+
+    .Containerup {
+        width: 300px;
+        height: 300px;
+        border: none;
+        margin: auto;
+    }
+
+    .Image {
+        width: 100%;
+        border-radius: 50%;
+    }
+
+        
+        }
+
+    .ContainerDown {
+        width: 500px;
+        height: 360px;
+        border: none;
+        margin: 30px 10px 30px 50px;
+    }
+
+    .ContainerDown1 {
+        width: 450px;
+        height: 30px;
+        border: none;
+        margin: 10px 10px 10px 20px;
+    }
+
+         .ContainerDownSelect {
+            padding: 0px 10px 0px 130px;
+        }
+
+    .ContainerDown1Label {
+        padding: 5px 10px 0px 60px;
+    }
+
+        .containerDownRadio {
+            padding: 0px 10px 0px 120px;
+        }
+
+    .ContainerDownNumber {
+        padding: 10px 10px 10px 70px;
+    }
+
+    .ContainerDownAmount {
+        padding: 10px 10px 10px 90px;
+    }
+
+    .ContainerDownDate {
+        padding: 0px 10px 0px 115px;
+    }
+
+    .ContainerDownAddress {
+        padding: 10px 10px 10px 48px;
+    }
+
+        .ContainerDownDisplay {
+            margin: 10px 10px 10px 200px;
+        }
+
+        .ContainerDownModification {
+            margin: 10px 10px 10px 190px;
+        }
+
+        .ContainerDownbutton1 {
+            width: 900px;
+            margin: 20px 10px 10px 10px;
+        }
+
+        .ContainerDownbutton2 {
+            width: 500px;
+            margin: 0 auto;
+        }
+</style>
+
+
+
+    
+
+</head>
+
+
+
+<body>
+    <div class="Container">
+    <h1 class="Header">Admin</h1>
+
+        <div class="Containerup">
+            <img src="img_avatar2.png" class="Image">
+         </div>
+
+        <div class="ContainerDown">
+
+            <div class="ContainerDown1">
+                <label for="select" class="ContainerDownSelect"><b>Select:</b></label>
+                
+
+                    <select name="UserType">
+                    <option value="Admin">Admin</option>
+                    <option value="Lead">Lead</option>
+                    </select> 
+            </div>
+
+            <div class="ContainerDown1">
+                <label for="cname" class="ContainerDown1Label"><b>CustomerName:</b></label>
+                <input type="text" />
+            </div>
+
+            <div class="ContainerDown1">
+                <form >
+                    <p class="containerDownRadio"> Gender: <input type="radio" name="gender" value="male"> Male
+                        <input type="radio" name="gender" value="female"> Female
+                    </p> <br />
+                  
+                </form>
+            </div>
+
+            <div class="ContainerDown1">
+                <label for="pnumber" class="ContainerDownNumber"><b>PhoneNumber:</b></label>
+                <input type="number" />
+             </div>
+
+            <div class="ContainerDown1">
+                <label for="bamount" class="ContainerDownAmount"><b>BillAmount:</b></label>
+                <input type="number" />
+            </div>
+
+
+            <div class="ContainerDown1">
+                <label for="bdate" class="ContainerDownDate"><b>BillDate:</b></label>
+                <input type="datetime" />
+                </div>
+
+            <div class="ContainerDown1">
+                <label for="caddres" class="ContainerDownAddress"><b>CustomerAddress:</b></label>
+                <input type="text" />
+            </div>
+
+            <div class="ContainerDown1">
+                <button type="button" class="ContainerDownDisplay"><b>Display</b></button>
+                
+
+            </div>
+
+            <div class="ContainerDown1">
+                <button type="button" class="ContainerDownModification"><b>Modification</b></button>
+                
+            </div>
+
+            <div class="ContainerDownbutton1">
+                <div class="ContainerDownbutton2">
+                    <button name="submit" class="action_btn submit" type="submit" value="Save">Save</button>
+                    <button name="submit" class="action_btn cancel" type="submit" value="Cancel">Cancel</button>
+                    
+                    
+                     
+                </div>
+                
+                 
+            </div>
+
+
+
+
+
+
+           
+  </div>
+</div>
+</body>
+</html>

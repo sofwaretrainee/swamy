@@ -1,0 +1,6 @@
+c:\users\swamy_mr\documents\visual studio 2013\Projects\MyProject\MyProject\bin\MyProject.dll.config
+c:\users\swamy_mr\documents\visual studio 2013\Projects\MyProject\MyProject\bin\MyProject.dll
+c:\users\swamy_mr\documents\visual studio 2013\Projects\MyProject\MyProject\bin\MyProject.pdb
+c:\users\swamy_mr\documents\visual studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.dll
+c:\users\swamy_mr\documents\visual studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.pdb
+C:\Users\Swamy_mr\Documents\Visual Studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache

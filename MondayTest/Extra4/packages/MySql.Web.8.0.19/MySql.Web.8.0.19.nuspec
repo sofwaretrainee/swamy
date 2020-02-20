@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MySql.Web</id>
+    <version>8.0.19</version>
+    <title>MySql.Web</title>
+    <authors>Oracle</authors>
+    <owners>Oracle</owners>
+    <licenseUrl>https://downloads.mysql.com/docs/licenses/connector-net-8.0-gpl-en.pdf</licenseUrl>
+    <projectUrl>https://dev.mysql.com/downloads/</projectUrl>
+    <iconUrl>https://api.nuget.org/v3-flatcontainer/mysql.web/8.0.19/icon</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>MySql.Web</description>
+    <summary />
+    <copyright>Copyright (c) 2016, 2019, Oracle and/or its affiliates. All rights reserved.</copyright>
+    <tags>MySql .NET Connector Connector/NET</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.5.2">
+        <dependency id="MySql.Data" version="8.0.19" />
+        <dependency id="Microsoft.AspNet.Razor" version="3.2.6" />
+        <dependency id="Microsoft.AspNet.WebPages" version="3.2.6" />
+        <dependency id="Microsoft.AspNet.WebPages.Data" version="3.2.6" />
+        <dependency id="Microsoft.AspNet.WebPages.WebData" version="3.2.6" />
+        <dependency id="Microsoft.Web.Infrastructure" version="1.0.0" />
+        <dependency id="WebMatrix.WebData" version="2.0.30506" />
+      </group>
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="Microsoft.CSharp" targetFramework=".NETFramework4.5.2" />
+      <frameworkAssembly assemblyName="System.ComponentModel.DataAnnotations" targetFramework=".NETFramework4.5.2" />
+      <frameworkAssembly assemblyName="System.Configuration" targetFramework=".NETFramework4.5.2" />
+      <frameworkAssembly assemblyName="System.Configuration.Install" targetFramework=".NETFramework4.5.2" />
+      <frameworkAssembly assemblyName="System.Core" targetFramework=".NETFramework4.5.2" />
+      <frameworkAssembly assemblyName="System.Data.DataSetExtensions" targetFramework=".NETFramework4.5.2" />
+      <frameworkAssembly assemblyName="System.Data" targetFramework=".NETFramework4.5.2" />
+      <frameworkAssembly assemblyName="System" targetFramework=".NETFramework4.5.2" />
+      <frameworkAssembly assemblyName="System.Management" targetFramework=".NETFramework4.5.2" />
+      <frameworkAssembly assemblyName="System.Runtime" targetFramework=".NETFramework4.5.2" />
+      <frameworkAssembly assemblyName="System.Security" targetFramework=".NETFramework4.5.2" />
+      <frameworkAssembly assemblyName="System.Web.ApplicationServices" targetFramework=".NETFramework4.5.2" />
+      <frameworkAssembly assemblyName="System.Web" targetFramework=".NETFramework4.5.2" />
+      <frameworkAssembly assemblyName="System.Xml" targetFramework=".NETFramework4.5.2" />
+    </frameworkAssemblies>
+  </metadata>
+</package>
