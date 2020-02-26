@@ -1,0 +1,4 @@
+C:\Users\Swamy_mr\Documents\Visual Studio 2013\Projects\MyWebApi\Models\bin\Debug\Models.dll
+C:\Users\Swamy_mr\Documents\Visual Studio 2013\Projects\MyWebApi\Models\bin\Debug\Models.pdb
+C:\Users\Swamy_mr\Documents\Visual Studio 2013\Projects\MyWebApi\Models\obj\Debug\Models.dll
+C:\Users\Swamy_mr\Documents\Visual Studio 2013\Projects\MyWebApi\Models\obj\Debug\Models.pdb
