@@ -1,0 +1,10 @@
+c:\users\swamy_mr\documents\visual studio 2013\Projects\WebApiMvc17\BusinessLayer\bin\Debug\BusinessLayer.dll
+c:\users\swamy_mr\documents\visual studio 2013\Projects\WebApiMvc17\BusinessLayer\bin\Debug\BusinessLayer.pdb
+c:\users\swamy_mr\documents\visual studio 2013\Projects\WebApiMvc17\BusinessLayer\bin\Debug\DatabaseLayer.dll
+c:\users\swamy_mr\documents\visual studio 2013\Projects\WebApiMvc17\BusinessLayer\bin\Debug\Models.dll
+c:\users\swamy_mr\documents\visual studio 2013\Projects\WebApiMvc17\BusinessLayer\bin\Debug\MySql.Data.dll
+c:\users\swamy_mr\documents\visual studio 2013\Projects\WebApiMvc17\BusinessLayer\bin\Debug\DatabaseLayer.pdb
+c:\users\swamy_mr\documents\visual studio 2013\Projects\WebApiMvc17\BusinessLayer\bin\Debug\Models.pdb
+c:\users\swamy_mr\documents\visual studio 2013\Projects\WebApiMvc17\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+c:\users\swamy_mr\documents\visual studio 2013\Projects\WebApiMvc17\BusinessLayer\obj\Debug\BusinessLayer.dll
+c:\users\swamy_mr\documents\visual studio 2013\Projects\WebApiMvc17\BusinessLayer\obj\Debug\BusinessLayer.pdb

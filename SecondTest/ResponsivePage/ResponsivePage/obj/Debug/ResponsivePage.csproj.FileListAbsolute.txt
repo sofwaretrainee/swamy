@@ -1,0 +1,6 @@
+c:\users\swamy_mr\documents\visual studio 2013\Projects\ResponsivePage\ResponsivePage\bin\ResponsivePage.dll.config
+c:\users\swamy_mr\documents\visual studio 2013\Projects\ResponsivePage\ResponsivePage\bin\ResponsivePage.dll
+c:\users\swamy_mr\documents\visual studio 2013\Projects\ResponsivePage\ResponsivePage\bin\ResponsivePage.pdb
+c:\users\swamy_mr\documents\visual studio 2013\Projects\ResponsivePage\ResponsivePage\obj\Debug\ResponsivePage.csprojResolveAssemblyReference.cache
+c:\users\swamy_mr\documents\visual studio 2013\Projects\ResponsivePage\ResponsivePage\obj\Debug\ResponsivePage.dll
+c:\users\swamy_mr\documents\visual studio 2013\Projects\ResponsivePage\ResponsivePage\obj\Debug\ResponsivePage.pdb

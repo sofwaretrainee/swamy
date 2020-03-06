@@ -1,0 +1,14 @@
+C:\Users\Swamy_mr\Documents\Visual Studio 2013\Projects\Factory Pattern16\Factory Pattern16\bin\Factory Pattern16.dll.config
+C:\Users\Swamy_mr\Documents\Visual Studio 2013\Projects\Factory Pattern16\Factory Pattern16\bin\Factory Pattern16.dll
+C:\Users\Swamy_mr\Documents\Visual Studio 2013\Projects\Factory Pattern16\Factory Pattern16\bin\Factory Pattern16.pdb
+C:\Users\Swamy_mr\Documents\Visual Studio 2013\Projects\Factory Pattern16\Factory Pattern16\bin\MySql.Data.dll
+C:\Users\Swamy_mr\Documents\Visual Studio 2013\Projects\Factory Pattern16\Factory Pattern16\obj\Debug\Factory Pattern16.dll
+C:\Users\Swamy_mr\Documents\Visual Studio 2013\Projects\Factory Pattern16\Factory Pattern16\obj\Debug\Factory Pattern16.pdb
+C:\Users\Swamy_mr\Documents\Visual Studio 2013\Projects\Factory Pattern16\Factory Pattern16\obj\Debug\Factory Pattern16.csprojResolveAssemblyReference.cache
+D:\coding\21 jan 2020\swamy\Second Test\Factory Pattern16\Factory Pattern16\bin\Factory Pattern16.dll.config
+D:\coding\21 jan 2020\swamy\Second Test\Factory Pattern16\Factory Pattern16\bin\Factory Pattern16.dll
+D:\coding\21 jan 2020\swamy\Second Test\Factory Pattern16\Factory Pattern16\bin\Factory Pattern16.pdb
+D:\coding\21 jan 2020\swamy\Second Test\Factory Pattern16\Factory Pattern16\bin\MySql.Data.DLL
+D:\coding\21 jan 2020\swamy\Second Test\Factory Pattern16\Factory Pattern16\obj\Debug\Factory Pattern16.csprojResolveAssemblyReference.cache
+D:\coding\21 jan 2020\swamy\Second Test\Factory Pattern16\Factory Pattern16\obj\Debug\Factory Pattern16.dll
+D:\coding\21 jan 2020\swamy\Second Test\Factory Pattern16\Factory Pattern16\obj\Debug\Factory Pattern16.pdb

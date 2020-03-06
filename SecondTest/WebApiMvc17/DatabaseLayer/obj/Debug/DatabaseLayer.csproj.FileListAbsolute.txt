@@ -1,0 +1,8 @@
+c:\users\swamy_mr\documents\visual studio 2013\Projects\WebApiMvc17\DatabaseLayer\bin\Debug\DatabaseLayer.dll
+c:\users\swamy_mr\documents\visual studio 2013\Projects\WebApiMvc17\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+c:\users\swamy_mr\documents\visual studio 2013\Projects\WebApiMvc17\DatabaseLayer\bin\Debug\Models.dll
+c:\users\swamy_mr\documents\visual studio 2013\Projects\WebApiMvc17\DatabaseLayer\bin\Debug\MySql.Data.DLL
+c:\users\swamy_mr\documents\visual studio 2013\Projects\WebApiMvc17\DatabaseLayer\bin\Debug\Models.pdb
+c:\users\swamy_mr\documents\visual studio 2013\Projects\WebApiMvc17\DatabaseLayer\obj\Debug\DatabaseLayer.csprojResolveAssemblyReference.cache
+c:\users\swamy_mr\documents\visual studio 2013\Projects\WebApiMvc17\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+c:\users\swamy_mr\documents\visual studio 2013\Projects\WebApiMvc17\DatabaseLayer\obj\Debug\DatabaseLayer.pdb

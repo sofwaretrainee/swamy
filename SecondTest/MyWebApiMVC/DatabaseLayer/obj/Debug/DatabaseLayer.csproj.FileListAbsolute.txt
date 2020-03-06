@@ -1,0 +1,6 @@
+C:\Users\Swamy_mr\Documents\Visual Studio 2013\Projects\MyWebApiMVC\DatabaseLayer\bin\Debug\DatabaseLayer.dll
+C:\Users\Swamy_mr\Documents\Visual Studio 2013\Projects\MyWebApiMVC\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+C:\Users\Swamy_mr\Documents\Visual Studio 2013\Projects\MyWebApiMVC\DatabaseLayer\bin\Debug\MySql.Data.DLL
+C:\Users\Swamy_mr\Documents\Visual Studio 2013\Projects\MyWebApiMVC\DatabaseLayer\obj\Debug\DatabaseLayer.csprojResolveAssemblyReference.cache
+C:\Users\Swamy_mr\Documents\Visual Studio 2013\Projects\MyWebApiMVC\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+C:\Users\Swamy_mr\Documents\Visual Studio 2013\Projects\MyWebApiMVC\DatabaseLayer\obj\Debug\DatabaseLayer.pdb

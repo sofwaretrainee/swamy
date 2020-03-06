@@ -1,0 +1,5 @@
+C:\Users\Swamy_mr\Documents\Visual Studio 2013\Projects\MyWebApiMVC\Models\bin\Debug\Models.dll
+C:\Users\Swamy_mr\Documents\Visual Studio 2013\Projects\MyWebApiMVC\Models\bin\Debug\Models.pdb
+C:\Users\Swamy_mr\Documents\Visual Studio 2013\Projects\MyWebApiMVC\Models\obj\Debug\Models.dll
+C:\Users\Swamy_mr\Documents\Visual Studio 2013\Projects\MyWebApiMVC\Models\obj\Debug\Models.pdb
+C:\Users\Swamy_mr\Documents\Visual Studio 2013\Projects\MyWebApiMVC\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache

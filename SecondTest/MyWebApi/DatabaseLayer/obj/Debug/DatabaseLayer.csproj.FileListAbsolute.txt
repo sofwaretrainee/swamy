@@ -1,0 +1,5 @@
+C:\Users\Swamy_mr\Documents\Visual Studio 2013\Projects\MyWebApi\DatabaseLayer\bin\Debug\DatabaseLayer.dll
+C:\Users\Swamy_mr\Documents\Visual Studio 2013\Projects\MyWebApi\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+C:\Users\Swamy_mr\Documents\Visual Studio 2013\Projects\MyWebApi\DatabaseLayer\bin\Debug\MySql.Data.dll
+C:\Users\Swamy_mr\Documents\Visual Studio 2013\Projects\MyWebApi\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+C:\Users\Swamy_mr\Documents\Visual Studio 2013\Projects\MyWebApi\DatabaseLayer\obj\Debug\DatabaseLayer.pdb

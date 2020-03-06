@@ -1,0 +1,6 @@
+c:\users\swamy_mr\documents\visual studio 2013\Projects\NewTask\NewTask\bin\NewTask.dll.config
+c:\users\swamy_mr\documents\visual studio 2013\Projects\NewTask\NewTask\bin\NewTask.dll
+c:\users\swamy_mr\documents\visual studio 2013\Projects\NewTask\NewTask\bin\NewTask.pdb
+c:\users\swamy_mr\documents\visual studio 2013\Projects\NewTask\NewTask\obj\Debug\NewTask.dll
+c:\users\swamy_mr\documents\visual studio 2013\Projects\NewTask\NewTask\obj\Debug\NewTask.pdb
+c:\users\swamy_mr\documents\visual studio 2013\Projects\NewTask\NewTask\obj\Debug\NewTask.csprojResolveAssemblyReference.cache
