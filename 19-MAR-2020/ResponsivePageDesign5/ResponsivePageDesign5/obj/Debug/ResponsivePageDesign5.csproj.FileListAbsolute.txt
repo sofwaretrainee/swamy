@@ -1,0 +1,6 @@
+c:\users\swamy_mr\documents\visual studio 2013\Projects\ResponsivePageDesign5\ResponsivePageDesign5\bin\ResponsivePageDesign5.dll.config
+c:\users\swamy_mr\documents\visual studio 2013\Projects\ResponsivePageDesign5\ResponsivePageDesign5\bin\ResponsivePageDesign5.dll
+c:\users\swamy_mr\documents\visual studio 2013\Projects\ResponsivePageDesign5\ResponsivePageDesign5\bin\ResponsivePageDesign5.pdb
+c:\users\swamy_mr\documents\visual studio 2013\Projects\ResponsivePageDesign5\ResponsivePageDesign5\obj\Debug\ResponsivePageDesign5.csprojResolveAssemblyReference.cache
+c:\users\swamy_mr\documents\visual studio 2013\Projects\ResponsivePageDesign5\ResponsivePageDesign5\obj\Debug\ResponsivePageDesign5.dll
+c:\users\swamy_mr\documents\visual studio 2013\Projects\ResponsivePageDesign5\ResponsivePageDesign5\obj\Debug\ResponsivePageDesign5.pdb
