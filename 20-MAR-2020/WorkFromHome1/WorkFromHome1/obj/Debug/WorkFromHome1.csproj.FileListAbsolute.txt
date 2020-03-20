@@ -1,0 +1,6 @@
+c:\users\swamy_mr\documents\visual studio 2013\Projects\WorkFromHome1\WorkFromHome1\bin\WorkFromHome1.dll.config
+c:\users\swamy_mr\documents\visual studio 2013\Projects\WorkFromHome1\WorkFromHome1\bin\WorkFromHome1.dll
+c:\users\swamy_mr\documents\visual studio 2013\Projects\WorkFromHome1\WorkFromHome1\bin\WorkFromHome1.pdb
+c:\users\swamy_mr\documents\visual studio 2013\Projects\WorkFromHome1\WorkFromHome1\obj\Debug\WorkFromHome1.csprojResolveAssemblyReference.cache
+c:\users\swamy_mr\documents\visual studio 2013\Projects\WorkFromHome1\WorkFromHome1\obj\Debug\WorkFromHome1.dll
+c:\users\swamy_mr\documents\visual studio 2013\Projects\WorkFromHome1\WorkFromHome1\obj\Debug\WorkFromHome1.pdb
